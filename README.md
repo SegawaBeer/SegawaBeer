@@ -1,4 +1,4 @@
-# Chang Zhichao
+# Chang Zhichao / SegawaBeer
 
 I build practical AI workflows that connect knowledge work, writing systems, and personal automation.
 
@@ -19,7 +19,7 @@ An AI Agent skill for the WeChat public account **啤酒的夏天**. It formaliz
 
 The project is useful as a concrete example of how I design agent workflows: explicit checkpoints, reusable scripts, publication constraints, and a preference for durable artifacts over one-off chat output.
 
-Repo: [susanooo/segawa-article-writer](https://github.com/susanooo/segawa-article-writer)
+Repo: [SegawaBeer/segawa-article-writer](https://github.com/SegawaBeer/segawa-article-writer)
 
 ## Direction
 
@@ -27,6 +27,5 @@ I am using this GitHub profile as the public entry point for my personal IP. Mor
 
 ## Find Me
 
-- GitHub: [@susanooo](https://github.com/susanooo)
+- GitHub: [@SegawaBeer](https://github.com/SegawaBeer)
 - Email: amberchiong@gmail.com
-
