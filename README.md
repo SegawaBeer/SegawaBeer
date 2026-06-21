@@ -11,19 +11,9 @@ My current focus is turning scattered ideas, notes, and domain expertise into re
 - **Content systems**: workflows for long-form writing, WeChat publishing, and multi-platform content operations.
 - **Product prototypes**: small tools around agent observability, education, and human-AI collaboration.
 
-## Featured Work
-
-### segawa-article-writer
-
-An AI Agent skill for the WeChat public account **啤酒的夏天**. It formalizes the full writing pipeline from topic clarification to research, outline review, Markdown draft, HTML formatting, cover generation, and publishing handoff.
-
-The project is useful as a concrete example of how I design agent workflows: explicit checkpoints, reusable scripts, publication constraints, and a preference for durable artifacts over one-off chat output.
-
-Repo: [SegawaBeer/segawa-article-writer](https://github.com/SegawaBeer/segawa-article-writer)
-
 ## Direction
 
-I am using this GitHub profile as the public entry point for my personal IP. More repositories will become public after documentation cleanup, secret review, and packaging. The bar is simple: each public project should explain what problem it solves, how to run it, and why it reflects the way I work.
+I am using this GitHub profile as the public entry point for my personal IP. Public repositories will appear here after documentation cleanup, secret review, and packaging. The bar is simple: each public project should explain what problem it solves, how to run it, and why it reflects the way I work.
 
 ## Find Me
 
